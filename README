@@ -1,0 +1,6 @@
+Testing the exactness of the Stochastic Gradient Langevin Descent sampler
+========================================================================
+
+To run code, navigate to base directory and run `make sgldTest`.  You can putz around in `main.cpp` to change the parameters and output file names to generate the charts in the paper.
+
+This was a final project for a PhD-level [Monte Carlo Methods](http://www.math.nyu.edu/faculty/goodman/teaching/MonteCarlo12/Assignments.php.html) course at NYU Courant in spring 2013.  The project examines the exactness of the SGLD algorithm against its exact counterpart, Langevin Monte Carlo. I consider a toy probability model similar to the one found in [Welling & Whye Teh 2011](http://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf), the paper that inspired this project. The model is bimodal with a region of low conductance, a shape that is notoriously difficult. The tests I carry out compare the estimates of various probability regions compared to the "true" statistic.  Please see the project write up in `tex/` for more details.

@@ -1,0 +1,10 @@
+# These are big files from the numerical integration used to calculate the "true" statistic
+output/*PostGrid*.txt
+
+*.o
+*.cpp~
+*.h~
+*.py~
+*.c~
+*.md~
+*~

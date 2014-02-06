@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{AhnBW12}
+Sungjin Ahn, Anoop~Korattikara Balan, and Max Welling.
+\newblock Bayesian posterior sampling via stochastic gradient fisher scoring.
+\newblock In {\em ICML}, 2012.
+
+\bibitem{Bottou10}
+L.~Bottou.
+\newblock Large-scale machine learning with stochastic gradient descent, 2010.
+
+\bibitem{Liu01}
+Jun~S. Liu.
+\newblock {\em Monte Carlo strategies in scientific computing}.
+\newblock Springer, 2001.
+
+\bibitem{Neal10}
+R.~M. Neal.
+\newblock Mcmc using hamiltonian dynamics.
+\newblock In S.~Brooks, A.~Gelman, G.~Jones, and X.-L. Meng, editors, {\em
+  Handbook of Markov Chain Monte Carlo}. Chapman \& Hall / CRC Press, 2010.
+
+\bibitem{Neal93}
+Radford~M. Neal.
+\newblock Probabilistic inference using markov chain monte carlo methods, 1993.
+
+\bibitem{Niu11}
+F.~Niu, B.~Recht, C.~R\'e, and S.~J. Wright.
+\newblock Hogwild!: A lock-free approach to parallelizing stochastic gradient
+  descent, 2011.
+
+\bibitem{WelTeh2011a}
+M.~Welling and Y.~W. Teh.
+\newblock {B}ayesian learning via stochastic gradient {L}angevin dynamics.
+\newblock In {\em Proceedings of the International Conference on Machine
+  Learning}, 2011.
+
+\end{thebibliography}
