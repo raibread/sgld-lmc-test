@@ -1,5 +1,5 @@
 Testing the exactness of the Stochastic Gradient Langevin Descent sampler
-========================================================================
+-----------------
 
 To run code, navigate to base directory and run `make sgldTest`.  You can putz around in `main.cpp` to change the parameters and output file names to generate the charts in the paper.
 
